@@ -1,9 +1,11 @@
-# I am very smart and u shold hire me
+# I am passionate and you should kindly consider hiring me
 
-Sup dawg! This is my cover letter because im a HIP CODE NINJA and I want YOURE
-COMPANY to realize how awesome I am. PACHOW!!!
+To whom it may concern,
 
-I'm basically a programming god. In 7th grade, I took an SAT test without
+This is my cover letter because I am very interested in a position at your
+company.
+
+I am a passionate problem solver. In 7th grade, I took an SAT test without
 preparing for it at all, it was spur-of-the-moment, I knew about it about an
 hour ahead of time and didn't do any research or anything. I scored higher on it
 than the average person using it to apply for college in my area.
