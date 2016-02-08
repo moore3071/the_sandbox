@@ -3,6 +3,7 @@ html, body {
 	height: 100%;
 	margin: 0px;
 	padding: 0px;
+	color: white;
 }
 body {
 	display: flex;
@@ -15,6 +16,14 @@ header {
 }
 nav {
 	width: 100%;
+}
+nav > ul {
+	display: flex;
+	flex-flow: row nowrap;
+	list-style-type: none;
+}
+nav > ul > li {
+	flex-grow: 1;
 }
 footer {
 	width: 100%;
